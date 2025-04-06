@@ -1,0 +1,5 @@
+Name: Ravi Kumar
+Skills: python developer,Python, Django, SQL
+Experience: 2+ year
+Education:  B.Tech in CS/IT
+Build and maintain web apps

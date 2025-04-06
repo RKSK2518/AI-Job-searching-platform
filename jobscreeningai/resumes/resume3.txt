@@ -1,0 +1,5 @@
+Name: Riya Sharma  
+Skills: Python, Django, SQL  
+Experience: 2+ years as a Python Developer  
+Education: B.Tech in CS/IT  
+Responsibilities: Build and maintain web apps

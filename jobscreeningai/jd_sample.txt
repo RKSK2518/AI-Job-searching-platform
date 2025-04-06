@@ -1,0 +1,5 @@
+Job Title: Python Developer  
+Required Skills: Python, Django, SQL  
+Experience: 2+ years  
+Qualifications: B.Tech in CS/IT  
+Responsibilities: Build and maintain web apps

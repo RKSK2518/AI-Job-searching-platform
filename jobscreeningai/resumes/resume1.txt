@@ -1,0 +1,4 @@
+Name: Aman Singh
+Skills: Python, Django, Flask
+Experience: 3 years in web dev
+Education: B.Tech IT
